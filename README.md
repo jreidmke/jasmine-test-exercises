@@ -12,8 +12,8 @@ This information is appended to the DOM and behind the scenes, the amount owed t
 
 Three sets of tests were written. 
 
-*helpers.test.js* tests to make sure all the calulations pertaining to splitting tips among servers are working correctly. It also tests inner HTML to make sure correct data is appended to the DOM.
+**helpers.test.js** tests to make sure all the calulations pertaining to splitting tips among servers are working correctly. It also tests inner HTML to make sure correct data is appended to the DOM.
 
-*payments.test.js* tests to ensure payments are correctly appended to the DOM as well testing payment related functions to guarantee correct returns.
+**payments.test.js** tests to ensure payments are correctly appended to the DOM as well testing payment related functions to guarantee correct returns.
 
-Finally, *servers.test.js* are a set of tests related to server functions and appending server data to the DOM.
+Finally, **servers.test.js** are a set of tests related to server functions and appending server data to the DOM.
